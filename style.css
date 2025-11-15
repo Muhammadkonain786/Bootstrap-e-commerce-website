@@ -1,0 +1,17 @@
+.container{
+    border: 2px solid black;
+}
+.row{
+    border: 2px solid rgb(228, 25, 25);
+}
+.carousel-item{
+    height: 700px;
+}
+#header{
+    text-align: center;
+}
+#cardcontainer{
+    width: 95%;
+    margin: auto;
+    border-color: 2px solid black;
+}
